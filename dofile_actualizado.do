@@ -2,7 +2,7 @@
 ** Pol. Comp II / Mayo 2021 **
 
 	// Cambiar ruta
-use "C:\Users\Álvaro\Dropbox\UC3M\4º\2º cuatrimestre\Política Comparada II\es_data-v3.dta", clear
+use "\es_data-v3.dta", clear
 
 * Ver variables a usar
 tab country
