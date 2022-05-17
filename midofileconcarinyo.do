@@ -1,13 +1,13 @@
-************************* ********
-* DoFile de Mario Yanes * * 2019 *
-************************* ********
+********** ********
+* DoFile * * 2019 *
+********** ********
 
 *********************************************
 ** Técnicas de investigación cuantitativas **
 *********************************************
 
 ** ÍNDICE **
-*1. Dofile general. Líneas 14-545. Lo visto en clase.
+*1. Dofile general. Líneas 14-545. 
 *2. Dofile vox preelectoral. Líneas 549-794. Análisis artículo.
 *3. Dofile append y merge. Líneas 800-962. Para unir bases de datos.
 
